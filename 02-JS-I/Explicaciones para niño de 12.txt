@@ -1,0 +1,5 @@
+ * Variables --> Son como cajitas donde podes guardar un tipo de elemnto a la vez.
+ * Strings --> Son cadenas de caracteres.
+ * Funciones (argumentos, `return`) --> Son pequeños programas que se crean para cumplir un determinado proposito.
+ * Declaraciones `if` --> Son utilizados para tomar desiciones, si pasa algo se realiza una cosa y sino se realiza otra.
+ * Valores booleanos (`true`, `false`) --> Las afirmaciones pueden tener siempre dos valores de verdad, o es falso o es verdadero.
